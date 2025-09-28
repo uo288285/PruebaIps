@@ -3,6 +3,7 @@ package paquete1;
 public class Clase2 {
 	
 	private int clase2;
+	private int cambioE;
 
 	public int getClase2() {
 		return clase2;
